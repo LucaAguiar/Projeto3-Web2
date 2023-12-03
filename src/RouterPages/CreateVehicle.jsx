@@ -3,7 +3,7 @@ import axios from "axios";
 
 const CreateVehicleForm = () => {
     const [formData, setFormData] = useState({
-        id: null,
+        id: "",
         marca: "",
         modelo: "",
         ano: "",
@@ -25,7 +25,7 @@ const CreateVehicleForm = () => {
             await axios.post("http://localhost:5000/vehicles", formData);
 
             setFormData({
-                id: null,
+                id: "",
                 marca: "",
                 modelo: "",
                 ano: "",
