@@ -1,0 +1,74 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "marca": "Chevrolet",
+      "modelo": "Agile LT 1.4 MPFI 8V flex",
+      "ano": 2010,
+      "categoria": "carro"
+    },
+    {
+      "id": 2,
+      "marca": "Dodge",
+      "modelo": "Dakota Durango SLT 5.2 4x4 V8",
+      "ano": 1998,
+      "categoria": "carro"
+    },
+    {
+      "id": 3,
+      "marca": "Fiat",
+      "modelo": "Idea Advent./ Adv.LOCKER 1.8 mpi Flex 5p",
+      "ano": 2016,
+      "categoria": "carro"
+    },
+    {
+      "id": 4,
+      "marca": "Mitsubishi",
+      "modelo": "Eclipse GT 3.8 V6 267cv",
+      "ano": 2011,
+      "categoria": "carro"
+    },
+    {
+      "id": 5,
+      "marca": "BMW",
+      "modelo": "F 700 GS",
+      "ano": 2018,
+      "categoria": "moto"
+    },
+    {
+      "id": 6,
+      "marca": "SUZUKI",
+      "modelo": "TL 1000 S",
+      "ano": 2002,
+      "categoria": "moto"
+    },
+    {
+      "id": 7,
+      "marca": "SUNDOWN",
+      "modelo": "STX MOTARD 200cc",
+      "ano": 2008,
+      "categoria": "moto"
+    },
+    {
+      "id": 8,
+      "marca": "DUCATI",
+      "modelo": "MONSTER 900cc",
+      "ano": 2001,
+      "categoria": "moto"
+    },
+    {
+      "id": 9,
+      "marca": "SCANIA",
+      "modelo": "G-360 A 4x2 3-Eixos/A 6x2 2p (dies.)(E5)",
+      "ano": 2018,
+      "categoria": "caminhao"
+    },
+    {
+      "id": "10",
+      "marca": "vw",
+      "modelo": "jetta",
+      "ano": "2013",
+      "categoria": "carro"
+    }
+  ]
+}
